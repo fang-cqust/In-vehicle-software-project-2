@@ -1,0 +1,110 @@
+Car ID: cqusnYHZ6CROFIMBCKZS1
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: S29O3AJL5
+Student Name: Student29O3AJL5
+--------------------------
+Car ID: cqusn6VFZWTR375T5A7US
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: SCF7OGAK7
+Student Name: StudentCF7OGAK7
+--------------------------
+Car ID: cqusn3H7QGN7W3F3ZC66Y
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: SD9BXQT7E
+Student Name: StudentD9BXQT7E
+--------------------------
+Car ID: cqusnS26RZLLAFIIAW2PK
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: SI3EZDWRG
+Student Name: StudentI3EZDWRG
+--------------------------
+Car ID: cqusnG0X41BYNJ1UKI6DB
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: S6MEQGR3A
+Student Name: Student6MEQGR3A
+--------------------------
+Car ID: cqusn7477CH7ORR379NME
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: SP01H99MP
+Student Name: StudentP01H99MP
+--------------------------
+Car ID: cqusn97BWNWNEJ3ABOETB
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: S4EQACV2Z
+Student Name: Student4EQACV2Z
+--------------------------
+Car ID: cqusn2LFZI8U7W4VJ7SOB
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: SV4MDLK6M
+Student Name: StudentV4MDLK6M
+--------------------------
+Car ID: cqusnBK7PE1913S8YS80H
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: S3SJVFO2C
+Student Name: Student3SJVFO2C
+--------------------------
+Car ID: cqusn7TBQV1T75UI4ICMJ
+Chassis ID: dp00000001
+AGX Model: AGX Xavier
+Camera Model: RealSense D435i
+Lidar Model: RS-Helios-16p
+Gyroscope Model: CH110
+Display Size: 11.6
+Battery Voltage: 24V
+Student ID: SF0PJ6JT7
+Student Name: StudentF0PJ6JT7
+--------------------------
